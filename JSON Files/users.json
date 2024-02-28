@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "64b8da25b292a8d6cfd139f2"
+  },
+  "name": "Ritz",
+  "email": "richajha@gmail.com",
+  "password": "$2a$12$TxQb383gy1UVgBdu3Ll1p.6wpsr8qjuKCpgCtIkEJVAnCFDyoAfAu",
+  "avatar": {
+    "public_id": "avatars/uvyy6654ullorh142do4",
+    "url": "https://res.cloudinary.com/df8dnez80/image/upload/v1690961346/avatars/uvyy6654ullorh142do4.jpg"
+  },
+  "role": "user",
+  "phoneNumber": "9999999998",
+  "createdAt": {
+    "$date": "2023-07-20T05:54:36.934Z"
+  },
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651d817be73b22165cc196fd"
+  },
+  "name": "EDIGA SUBASH GOUD",
+  "email": "subashgoud2357@gmail.com",
+  "password": "$2a$12$qmTV7w9JViv.AuW5AmYLfexRKUuzRemXlj6ji2d0XmfPV0I1SGF6G",
+  "avatar": {
+    "public_id": "avatars/gfwwdbrswvtplcgpwxss",
+    "url": "https://res.cloudinary.com/df8dnez80/image/upload/v1696432505/avatars/gfwwdbrswvtplcgpwxss.jpg"
+  },
+  "role": "user",
+  "phoneNumber": "9553663580",
+  "createdAt": {
+    "$date": "2023-10-04T15:11:30.310Z"
+  },
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ec7de334964ce38c18114"
+  },
+  "name": "EDIGA SUBASH GOUD",
+  "email": "subashgoud2345@gmail.com",
+  "password": "$2a$12$/0sxNEj6oamrtBni2jUuSOL6zc/fj1hcDBCCtUbKpYXWm.YMQcK1K",
+  "avatar": {
+    "public_id": "avatars/qs8qgnktdbdz5hzkw04t",
+    "url": "https://res.cloudinary.com/df8dnez80/image/upload/v1696516062/avatars/qs8qgnktdbdz5hzkw04t.jpg"
+  },
+  "role": "user",
+  "phoneNumber": "9553663580",
+  "createdAt": {
+    "$date": "2023-10-05T13:11:58.132Z"
+  },
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65203a8b458b77133e6ab511"
+  },
+  "name": "EDIGA SUBASH",
+  "email": "subashgoud1710@gmail.com",
+  "password": "$2a$12$zk1KydTzMYMPPsrlsXBbW.Xx/Wj.G7gida5zTKEN1L4cEHo/P0uby",
+  "avatar": {
+    "public_id": "avatars/k0hbsjut8cehye7yffml",
+    "url": "https://res.cloudinary.com/df8dnez80/image/upload/v1696610956/avatars/k0hbsjut8cehye7yffml.jpg"
+  },
+  "role": "user",
+  "phoneNumber": "9963038201",
+  "createdAt": {
+    "$date": "2023-10-06T16:45:01.748Z"
+  },
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65203b7c458b77133e6ab533"
+  },
+  "name": "subash",
+  "email": "subashgoud1017@gmail.com",
+  "password": "$2a$12$f.AyV70KpNL25supeXz5UOng0CKF3MSxOh0V85KhTUZxYbxlfR2fO",
+  "avatar": {
+    "public_id": "avatars/snoill3xahn4bfnrbmr7",
+    "url": "https://res.cloudinary.com/df8dnez80/image/upload/v1696611197/avatars/snoill3xahn4bfnrbmr7.jpg"
+  },
+  "role": "user",
+  "phoneNumber": "9666932711",
+  "createdAt": {
+    "$date": "2023-10-06T16:45:01.748Z"
+  },
+  "active": true,
+  "__v": 0
+}]
